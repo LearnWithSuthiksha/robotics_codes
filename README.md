@@ -4,6 +4,10 @@ Welcome to the **LearnWithSuthiksha** GitHub repository! 🚀
 
 This repository contains code examples and projects demonstrated on the **LearnWithSuthiksha** YouTube channel. The projects focus on **Robotics, Arduino, Micro:bit, and programming for beginners**.
 
+## 👩‍💻 About Suthiksha
+Suthiksha is a passionate young tech enthusiast and the creator of the **LearnWithSuthiksha** YouTube channel. At just 9 years old, she is dedicated to sharing her knowledge about **Robotics, Arduino, Micro:bit, and various programming concepts** in a simple and engaging way. Her goal is to inspire and educate kids and beginners in technology through hands-on projects and fun learning experiences.
+
+
 ## 📂 Repository Structure
 
 The repository is organized into the following directories:
