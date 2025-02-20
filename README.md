@@ -26,7 +26,7 @@ The repository is organized into the following directories:
 ## 📺 YouTube Channel
 This repository supports content from the **LearnWithSuthiksha** YouTube channel. Subscribe to the channel for tutorials, projects, and explanations.
 
-🔗 [YouTube Channel: LearnWithSuthiksha](https://www.youtube.com/channel/yourchannel)
+🔗 [YouTube Channel: LearnWithSuthiksha](https://www.youtube.com/@LearnwithSuthiksha)
 
 ## 🛠️ How to Use This Repository
 1. Clone the repository to your local machine:
